@@ -1,0 +1,24 @@
+body
+{
+    background-color:#5F605A;
+}
+.box{
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 1%;
+}
+#quote{
+    color:black;
+    font-family:Kaushan Script;
+    font-size:25px;
+}
+#author{
+    color:black;
+    font-family:Kaushan Script;
+    font-size:20px;
+}
+#getMessage{
+    font-family:Righteous;
+    color:#FFC800;
+}
